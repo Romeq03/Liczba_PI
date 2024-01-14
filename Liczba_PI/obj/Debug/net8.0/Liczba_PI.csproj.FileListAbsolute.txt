@@ -1,0 +1,14 @@
+/Users/bartekromek/wsb/Liczba_PI/Liczba_PI/bin/Debug/net8.0/Liczba_PI
+/Users/bartekromek/wsb/Liczba_PI/Liczba_PI/bin/Debug/net8.0/Liczba_PI.deps.json
+/Users/bartekromek/wsb/Liczba_PI/Liczba_PI/bin/Debug/net8.0/Liczba_PI.runtimeconfig.json
+/Users/bartekromek/wsb/Liczba_PI/Liczba_PI/bin/Debug/net8.0/Liczba_PI.dll
+/Users/bartekromek/wsb/Liczba_PI/Liczba_PI/bin/Debug/net8.0/Liczba_PI.pdb
+/Users/bartekromek/wsb/Liczba_PI/Liczba_PI/obj/Debug/net8.0/Liczba_PI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bartekromek/wsb/Liczba_PI/Liczba_PI/obj/Debug/net8.0/Liczba_PI.AssemblyInfoInputs.cache
+/Users/bartekromek/wsb/Liczba_PI/Liczba_PI/obj/Debug/net8.0/Liczba_PI.AssemblyInfo.cs
+/Users/bartekromek/wsb/Liczba_PI/Liczba_PI/obj/Debug/net8.0/Liczba_PI.csproj.CoreCompileInputs.cache
+/Users/bartekromek/wsb/Liczba_PI/Liczba_PI/obj/Debug/net8.0/Liczba_PI.dll
+/Users/bartekromek/wsb/Liczba_PI/Liczba_PI/obj/Debug/net8.0/refint/Liczba_PI.dll
+/Users/bartekromek/wsb/Liczba_PI/Liczba_PI/obj/Debug/net8.0/Liczba_PI.pdb
+/Users/bartekromek/wsb/Liczba_PI/Liczba_PI/obj/Debug/net8.0/Liczba_PI.genruntimeconfig.cache
+/Users/bartekromek/wsb/Liczba_PI/Liczba_PI/obj/Debug/net8.0/ref/Liczba_PI.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Liczba_PI/1.0.0": {
+        "runtime": {
+          "Liczba_PI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Liczba_PI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
