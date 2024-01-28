@@ -12,11 +12,11 @@ class Program
         int pointsInsideCircle = 0;
         Random random = new Random();
 
-        int start = Environment.TickCount; // Początkowy czas
+        int start = Environment.TickCount;
 
         for (int i = 0; i < precision; i++)
         {
-            double x = (random.NextDouble() - 0.5) * 2; // Losujemy punkt w zakresie [-1, 1]
+            double x = (random.NextDouble() - 0.5) * 2;
             double y = (random.NextDouble() - 0.5) * 2;
 
             double distance = Math.Sqrt(x * x + y * y);
@@ -27,14 +27,14 @@ class Program
             }
         }
 
-        int stop = Environment.TickCount; // Końcowy czas
-        int elapsedTime = stop - start; // Czas obliczeń w milisekundach
+        int stop = Environment.TickCount;
+        int elapsedTime = stop - start;
 
         double piApproximation = 4.0 * pointsInsideCircle / precision;
 
         Console.WriteLine($"Przybliżona wartość liczby Pi: {piApproximation}");
         Console.WriteLine($"Czas obliczeń: {elapsedTime} ms");
 
-        Console.ReadLine(); // Zatrzymuje konsolę przed zamknięciem
+        Console.ReadLine();
     }
 }
